@@ -1,6 +1,6 @@
 🌟 Veena's Portfolio
 
-🚀 Live Site: veenarudraiya.github.io/protfolio_veena
+🚀 Live Site: https://veenarudraiya.github.io/protfolio_veena/
 
 📌 Overview
 
